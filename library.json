@@ -1,0 +1,21 @@
+
+{
+    "docker.io/library/maven": "registry.cn-hangzhou.aliyuncs.com/all_lib/maven",
+    "docker.io/library/tomcat": "registry.cn-hangzhou.aliyuncs.com/all_lib/tomcat",
+    "docker.io/library/nginx": "registry.cn-hangzhou.aliyuncs.com/all_lib/nginx",
+    "docker.io/library/alpine": "registry.cn-hangzhou.aliyuncs.com/all_lib/alpine",
+    "docker.io/library/postgres": "registry.cn-hangzhou.aliyuncs.com/all_lib/postgres",
+    "docker.io/library/redis": "registry.cn-hangzhou.aliyuncs.com/all_lib/redis",
+    "docker.io/library/mongo": "registry.cn-hangzhou.aliyuncs.com/all_lib/mongo",
+    "docker.io/library/mysql": "registry.cn-hangzhou.aliyuncs.com/all_lib/mysql",
+    "docker.io/library/rabbitmq": "registry.cn-hangzhou.aliyuncs.com/all_lib/rabbitmq",
+    "docker.io/library/openjdk": "registry.cn-hangzhou.aliyuncs.com/all_lib/openjdk",
+    "docker.io/library/gradle": "registry.cn-hangzhou.aliyuncs.com/all_lib/gradle",
+    "docker.io/library/node": "registry.cn-hangzhou.aliyuncs.com/all_lib/node",
+    "docker.io/library/golang": "registry.cn-hangzhou.aliyuncs.com/all_lib/golang",
+    "docker.io/library/python": "registry.cn-hangzhou.aliyuncs.com/all_lib/python",
+    "docker.io/library/elasticsearch": "registry.cn-hangzhou.aliyuncs.com/all_lib/elasticsearch",
+    "docker.io/library/kibana": "registry.cn-hangzhou.aliyuncs.com/all_lib/kibana",
+    "docker.io/nacos/nacos-server": "registry.cn-hangzhou.aliyuncs.com/all_lib/nacos-server",
+    "docker.io/casbin/casdoor": "registry.cn-hangzhou.aliyuncs.com/all_lib/casdoor"
+}

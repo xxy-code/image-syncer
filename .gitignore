@@ -1,0 +1,65 @@
+# ---> Java
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+######maven wrapper####
+.mvn/*
+!.mvn/wrapper
+.mvn/wrapper/*
+!mvnw
+!mvnw.cmd
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+!.mvn/wrapper/settings.xml
+!.mvn/wrapper/MavenWrapperDownloader.java
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+HELP.md
+target/
+!**/src/main/**
+!**/src/test/**
+**/rebel.xml
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/logs/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.flattened-pom.xml
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+.DS_Store
+counfig/.DS_Store
+
+### gradle ###
+.gradle
+**/build/
+
+### project ###
+/interconnection
+
