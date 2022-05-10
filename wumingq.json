@@ -1,4 +1,4 @@
 
 {
-    "docker.io/wumingq/*": "registry.cn-hangzhou.aliyuncs.com/wumingq/*"
+    "docker.io/wumingq/": "registry.cn-hangzhou.aliyuncs.com/wumingq/"
 }
