@@ -1,4 +1,14 @@
 
 {
-    "docker.io/wumingq/gitlab-dingtalk": "registry.cn-hangzhou.aliyuncs.com/wumingq"
+    "docker.io/wumingq/gitlab-dingtalk": "registry.cn-hangzhou.aliyuncs.com/wumingq/gitlab-dingtalk",
+    "docker.io/wumingq/adoptopenjdk": "registry.cn-hangzhou.aliyuncs.com/wumingq/adoptopenjdk",
+    "docker.io/wumingq/adoptium": "registry.cn-hangzhou.aliyuncs.com/wumingq/adoptium",
+    "docker.io/wumingq/hugo": "registry.cn-hangzhou.aliyuncs.com/wumingq/hugo",
+    "docker.io/wumingq/docker-env": "registry.cn-hangzhou.aliyuncs.com/wumingq/docker-env",
+    "docker.io/wumingq/apache-maven": "registry.cn-hangzhou.aliyuncs.com/wumingq/apache-maven",
+    "docker.io/wumingq/alpine-oracle-jdk8": "registry.cn-hangzhou.aliyuncs.com/wumingq/alpine-oracle-jdk8",
+    "docker.io/wumingq/alpine-glibc": "registry.cn-hangzhou.aliyuncs.com/wumingq/alpine-glibc",
+    "docker.io/wumingq/acme": "registry.cn-hangzhou.aliyuncs.com/wumingq/acme",
+    "docker.io/wumingq/alpine-post": "registry.cn-hangzhou.aliyuncs.com/wumingq/alpine-post",
+    "docker.io/wumingq/postgres": "registry.cn-hangzhou.aliyuncs.com/wumingq/postgres"
 }
