@@ -1,4 +1,4 @@
 
 {
-    "docker.io/dexidp/dex": "registry.cn-hangzhou.aliyuncs.com/all_lib/dex"
+    "ghcr.io/dexidp/dex:v2.31.1": "registry.cn-hangzhou.aliyuncs.com/all_lib/dex:v2.31.1"
 }
