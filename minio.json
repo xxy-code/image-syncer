@@ -1,0 +1,4 @@
+
+{
+    "docker.io/minio/minio": "registry.cn-hangzhou.aliyuncs.com/all_lib/minio"
+}
